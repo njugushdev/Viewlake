@@ -1,2 +1,2 @@
 # Viewlake
-Website for a golf club that is dynamic with all browsers
+Website project for a golf club that is dynamic with all browsers
